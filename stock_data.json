@@ -1,18 +1,16 @@
 {
     "HEB 200": {
-        "barres": 3,
+        "barres": 2,
         "longueurs": [
             4.59,
-            1.23,
             12.16
         ]
     },
     "HEA 200": {
-        "barres": 4,
+        "barres": 3,
         "longueurs": [
             2.95,
             4.43,
-            4.68,
             9.37
         ]
     },
